@@ -1,2 +1,2 @@
 print ('blablabla')
-print ('linia  nr 2')
+print ('l inia   nr 2')
